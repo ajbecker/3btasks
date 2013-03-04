@@ -1,0 +1,741 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"StdWod",
+				"StdWodsCollection"
+			],
+			[
+				"data-wo",
+				"data-wodtype"
+			],
+			[
+				"fetch",
+				"fetchWods"
+			],
+			[
+				"k",
+				"keysToRemove"
+			],
+			[
+				"waitingFor",
+				"waitingForPage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git history",
+				"Git: Commit history"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/AndroidManifest.xml",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/res/layout/accounts_tester.xml",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/res/values/strings.xml",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/AbstractGetNameTask.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/GetNameInBackground.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/GetNameInForeground.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/GetNameInBackgroundWithSync.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/HelloActivity.java",
+		"/C/Users/ajb/Google Drive/Archive/tasks api stuff.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/MainActivity.java",
+		"/C/Users/ajb/Google Drive/Archive/Tasks API Design.gdoc",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/.classpath",
+		"/C/Users/ajb/Documents/Development/Android/sdk_old/extras/google/google_play_services/samples/auth/project.properties",
+		"/C/Users/ajb/Documents/Development/Android/sdk/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/GetNameInForeground.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/HelloActivity.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/GetNameInBackground.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/MainActivity.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/AbstractGetNameTask.java",
+		"/C/Users/ajb/Documents/Development/Android/sdk/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/GetNameInBackgroundWithSync.java",
+		"/C/Users/ajb/Google Drive/tasks api stuff.java",
+		"/C/Users/ajb/Dropbox/git/pb/PocketBreezeLib/src/net/sbsh/pocketbreeze/lib/tools/CommandQueue.java",
+		"/C/Users/ajb/Dropbox/git/pb/PocketBreezeLib/src/net/sbsh/pocketbreeze/lib/PocketBreezeService.java",
+		"/c/users/ajb/dropbox/git/pb/PocketBreezeLib/src/net/sbsh/pocketbreeze/lib/repositories/ImageRepositoryImpl.java",
+		"/C/Users/ajb/Dropbox/git/pb/PocketBreezeLib/src/net/sbsh/pocketbreeze/lib/tools/DateHelper.java",
+		"/c/users/ajb/dropbox/git/pb/PocketBreezeLib/src/net/sbsh/pocketbreeze/lib/tools/WidgetHelper.java",
+		"/c/users/ajb/dropbox/git/pb/PocketBreezeLib/src/net/sbsh/pocketbreeze/lib/activities/AboutActivity.java",
+		"/c/users/ajb/dropbox/git/pb/PocketBreezeLib/src/net/sbsh/pocketbreeze/lib/tools/ContentChangedManager.java",
+		"/C/Users/ajb/Dropbox/git/pb/PocketBreezeLib/src/net/sbsh/pocketbreeze/lib/repositories/dataitem/FroyoCalendarDataItemRepository.java",
+		"/C/Users/ajb/Dropbox/git/pb/PocketBreezeLib/res/xml/widget44.xml",
+		"/C/Users/ajb/Dropbox/git/pb/PocketBreeze/AndroidManifest.xml",
+		"/C/Users/ajb/Desktop/index.html",
+		"/C/Users/ajb/installation/dir/Windows/System32/DriverStore/FileRepository/cl_97046.inf_amd64_1c48ec367dcc84d9/CL_97046.inf",
+		"/C/Users/ajb/installation/dir/Windows/System32/DriverStore/FileRepository/cw_97046.inf_amd64_efb1cd79b70ebb4b/CW_97046.inf",
+		"/C/Users/ajb/Dropbox/git/pb/PocketBreeze/res/vlaues",
+		"/C/Users/ajb/Desktop/UIExtensionConfig.xml",
+		"/C/Users/ajb/Documents/Projects/projlb/views/layout.jade",
+		"/C/Users/ajb/Documents/Projects/projlb/views/index.jade",
+		"/C/Users/ajb/Documents/Projects/projlb/dbio.js",
+		"/C/Users/ajb/Documents/Projects/projlb/routes/user.js",
+		"/C/Users/ajb/Documents/Projects/projlb/routes/index.js",
+		"/C/Users/ajb/Documents/Projects/projlb/app.js",
+		"/C/Users/ajb/Desktop/hzn_notes.txt",
+		"/C/Users/ajb/Documents/Projects/projlb/public/javascripts/navMenuView.js",
+		"/C/Users/ajb/Documents/Projects/projlb/public/javascripts/index.js",
+		"/C/Users/ajb/Documents/Projects/projlb/public/stylesheets/style.css",
+		"/C/Users/ajb/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/ajb/Documents/Projects/projlb/projlb.sublime-project",
+		"/C/Users/ajb/Documents/Projects/projlb/views/contentBox.jade",
+		"/C/Users/ajb/Documents/Projects/projlb/views/listBar.jade",
+		"/C/Users/ajb/Documents/Projects/projlb/views/navBar.jade",
+		"/C/Users/ajb/Documents/Projects/projlb/views/allContent.jade",
+		"/C/Users/ajb/Documents/Projects/projlb/package.json",
+		"/C/Users/ajb/Documents/Projects/projlb/.gitignore",
+		"/C/Users/ajb/Documents/Projects/projlb/public/javascripts/underscore.js",
+		"/C/Users/ajb/Documents/Projects/projlb/views/conentBox.jade",
+		"/C/Users/ajb/Documents/Projects/projlb/test.txt",
+		"/C/Users/ajb/Documents/Projects/xftweb/app.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/api/api.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/public/scripts/main.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/public/xfitCache.manifest",
+		"/C/Users/ajb/Documents/Projects/xftweb/views/index.jade",
+		"/C/Users/ajb/Documents/Projects/xftweb/views/layout.jade",
+		"/C/Users/ajb/Documents/Projects/xftweb/api/db/dbio.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/package.json",
+		"/C/Users/ajb/Documents/Projects/xftweb/public/stylesheets/style.css",
+		"/C/Users/ajb/Documents/Projects/xftweb/public/scripts/thirdparty/backbone_offline.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/tests/api/models/WodEntryTests.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/api/models/WodEntry.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/tests/api/models/BaseModelTests.js",
+		"/C/users/ajb/documents/projects/xftweb/public/scripts/models/models.js",
+		"/C/Users/ajb/Desktop/backup.sql",
+		"/C/Users/ajb/Documents/Projects/xftweb/api/meminfoHandler.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/api/dataHandler.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/templates/index.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/lint.sh",
+		"/C/users/ajb/documents/projects/xftweb/public/scripts/router.js",
+		"/C/Users/ajb/Documents/Projects/xftweb.sublime-project",
+		"/C/Users/adam/documents/git/xftweb/public/stylesheets/jquery.mobile-1.1.1.css",
+		"/C/Users/adam/documents/git/xftweb/public/scripts/thirdparty/jquery.mobile-1.1.1.js",
+		"/C/Users/adam/documents/git/xftweb/public/xfitCache.manifest",
+		"/C/Users/adam/documents/git/xftweb/routes/index.js",
+		"/C/Users/ajb/Documents/Projects/xftweb/views/toolbox.jade",
+		"/C/Users/ajb/Documents/Projects/xftweb/views/perform.jade",
+		"/C/Users/ajb/Documents/Projects/xftweb/views/improve.jade",
+		"/C/Users/ajb/Documents/Projects/xftweb/views/analyze.jade",
+		"/C/Users/adam/documents/git/xftweb/app.js",
+		"/C/Users/adam/documents/git/xftweb/views/layout.jade",
+		"/C/Users/adam/documents/git/xftweb/views/index.jade",
+		"/C/Users/adam/documents/git/xftweb/public/scripts/my.js",
+		"/C/Users/adam/documents/git/xftweb/package.json",
+		"/C/Users/adam/documents/git/xftweb/api/api.js",
+		"/C/Users/adam/documents/git/xftweb/api/meminfoHandler.js",
+		"/C/Users/adam/Documents/projects/xft/webservice/branches/php/phpinfo.php",
+		"/C/Users/adam/Documents/projects/xft/webservice/branches/php/index.php",
+		"/C/Users/adam/documents/git/xftweb/api/db/dbio.js",
+		"/C/Users/adam/documents/git/xftweb/tests/api/models/MemberInformationTests.js",
+		"/C/Users/adam/documents/git/xftweb/api/models/MemberInformation.js",
+		"/C/Users/adam/documents/git/xftweb/api/models/BaseModel.js",
+		"/C/Users/adam/Documents/git/xftweb/public/stylesheets/jquery.mobile-1.1.1.css",
+		"/C/Users/adam/documents/git/xftweb/public/my.js",
+		"/C/Users/adam/Documents/git/xftweb/public/stylesheets/jquery.mobile-1.1.1.min.css",
+		"/C/Users/adam/Documents/projects/xft/webservice/branches/php/controllers/MyControllers.php",
+		"/C/Users/adam/documents/git/xftweb/api/db/db.js",
+		"/C/Users/adam/documents/git/xftweb/tests/api/models/BaseModelTests.js",
+		"/C/Users/adam/Documents/git/xftweb/tests/api/models/BodyCompositionEntryTests.js",
+		"/C/Users/adam/Documents/git/xftweb/tests/api/models/BoxTests.js",
+		"/C/Users/adam/Documents/git/xftweb/tests/api/models/WodEntryTests.js",
+		"/C/Users/adam/Documents/git/xftweb/api/models/BodyCompositionEntry.js",
+		"/C/Users/adam/Documents/git/xftweb/api/models/Box.js",
+		"/C/Users/adam/Documents/git/xftweb/api/models/WodEntry.js",
+		"/C/Users/adam/documents/git/xftweb/runTests.js",
+		"/C/Users/adam/documents/git/xftweb/deploy.sh",
+		"/C/Users/adam/Documents/git/xftweb/api/dataHandler.js",
+		"/C/Users/adam/Documents/git/xftweb/api/meminfoHandler.js",
+		"/C/Users/adam/documents/git/xftweb/lint.sh",
+		"/C/Users/adam/Documents/git/xftweb/api/models/BaseModel.js.orig",
+		"/C/Users/adam/documents/git/xftweb/api/models/WodEntry.js",
+		"/C/Users/adam/documents/git/xftweb/api/models/Box.js",
+		"/C/Users/adam/documents/git/xftweb/api/models/BodyCompositionEntry.js",
+		"/C/Users/adam/documents/git/xftweb/api/dataHandler.js",
+		"/C/Users/adam/Documents/git/xftweb.sublime-project",
+		"/C/Users/adam/Google Drive/Git/Anki-Android/src/com/ichi2/anki/AnkiDroidApp.java",
+		"/C/Users/adam/Google Drive/Git/Anki-Android/AndroidManifest.xml",
+		"/C/Users/adam/Google Drive/Git/Anki-Android/src/com/ichi2/anki/AnkiDroidProxy.java",
+		"/C/Users/adam/Google Drive/Git/Anki-Android/src/com/ichi2/anki/services/DownloadManagerService.java",
+		"/C/Users/adam/Google Drive/Git/Anki-Android/src/com/ichi2/anki/DeckPicker.java",
+		"/C/Users/adam/Google Drive/Git/Anki-Android/src/com/ichi2/libanki/Collection.java",
+		"/C/inetpub/wwwroot/drop.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"c:\\users\\ajb\\dropbox\\git\\pb,*.java",
+			"*.*",
+			"*",
+			"*.js",
+			"*.java"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"mNamesArray",
+			"getAccountNames",
+			"initializeSpinner",
+			"_observer",
+			"RefreshContentObserver",
+			"getAppWidgetIds",
+			"RefreshContentObserver",
+			"_observer",
+			"_subscriptions",
+			"getChangeListeners",
+			"isToday",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"lint",
+			"contentTemplate",
+			"local",
+			"data-wodid",
+			"setWodId",
+			"stdWODs",
+			"\"),\n",
+			"getMembers",
+			"setWodId",
+			"listTemplate",
+			"fetchWods",
+			"setWodId",
+			"apple",
+			"apple-touch-icon",
+			"apple-touch",
+			"domCache",
+			"){",
+			" )",
+			"( ",
+			"if ( ",
+			"( {",
+			"if(",
+			"  ",
+			"function(",
+			"require",
+			"createServer",
+			"npm install",
+			"gohost",
+			"SYNC_VERSION",
+			"SYNC_URL",
+			"new AnkiDroidProxy",
+			"mPassword",
+			"SYNC_URL",
+			"ankiweb.net",
+			"http://ankiweb.net",
+			"download",
+			"http://",
+			"execwait",
+			"fetching",
+			"execwait",
+			"execstart",
+			"reswait",
+			"waitForResources",
+			"execwait"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<",
+			">",
+			"<",
+			") {",
+			")",
+			"(",
+			"if (",
+			"({",
+			"if (",
+			"    ",
+			"function ("
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 201.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mainactivity",
+				"src/com/google/android/gms/auth/sample/helloauth/MainActivity.java"
+			],
+			[
+				"layout.jade",
+				"views/layout.jade"
+			],
+			[
+				"index.jade",
+				"views/index.jade"
+			],
+			[
+				"dbio.js",
+				"dbio.js"
+			],
+			[
+				"user.js",
+				"routes/user.js"
+			],
+			[
+				"index.js",
+				"routes/index.js"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"contentbox",
+				"views/contentBox.jade"
+			],
+			[
+				"style.css",
+				"public/stylesheets/style.css"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"test.",
+				"test.txt"
+			],
+			[
+				"gitignore",
+				".gitignore"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"style",
+				"public/stylesheets/style.css"
+			],
+			[
+				"main.js",
+				"public/scripts/main.js"
+			],
+			[
+				"basemodeltests",
+				"tests/api/models/BaseModelTests.js"
+			],
+			[
+				"wodentry.js",
+				"api/models/WodEntry.js"
+			],
+			[
+				"wodentryte",
+				"tests/api/models/WodEntryTests.js"
+			],
+			[
+				"backbone_",
+				"public/scripts/thirdparty/backbone_offline.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"manifest",
+				"public/xfitCache.manifest"
+			],
+			[
+				"datahand",
+				"api/dataHandler.js"
+			],
+			[
+				"meminfo",
+				"api/meminfoHandler.js"
+			],
+			[
+				"api.js",
+				"api/api.js"
+			],
+			[
+				"jquerycss",
+				"public/stylesheets/jquery.mobile-1.1.1.css"
+			],
+			[
+				"jquery.mob",
+				"public/scripts/thirdparty/jquery.mobile-1.1.1.js"
+			],
+			[
+				"my.js",
+				"public/scripts/my.js"
+			],
+			[
+				"jquery",
+				"public/scripts/thirdparty/jquery.mobile-1.1.1.js"
+			],
+			[
+				"basemo",
+				"api/models/BaseModel.js"
+			],
+			[
+				"memberinforma",
+				"api/models/MemberInformation.js"
+			],
+			[
+				"memberinformation",
+				"tests/api/models/MemberInformationTests.js"
+			],
+			[
+				"dbio",
+				"api/db/dbio.js"
+			],
+			[
+				"meminfohand",
+				"api/meminfoHandler.js"
+			],
+			[
+				"package.json",
+				"package.json"
+			],
+			[
+				"db.js",
+				"api/db/db.js"
+			],
+			[
+				"deploy.sh",
+				"deploy.sh"
+			],
+			[
+				"basemodel",
+				"api/models/BaseModel.js"
+			],
+			[
+				"runtest",
+				"runTests.js"
+			],
+			[
+				"basemodeltes",
+				"tests/api/models/BaseModelTests.js"
+			],
+			[
+				"runtests",
+				"runTests.js"
+			],
+			[
+				"memberinformationtest",
+				"tests/api/models/MemberInformationTests.js"
+			],
+			[
+				"wodent",
+				"api/models/WodEntry.js"
+			],
+			[
+				"box.js",
+				"api/models/Box.js"
+			],
+			[
+				"bodycomp",
+				"api/models/BodyCompositionEntry.js"
+			],
+			[
+				"memberinformationtes",
+				"tests/api/models/MemberInformationTests.js"
+			],
+			[
+				"member",
+				"api/models/MemberInformation.js"
+			],
+			[
+				"lint.sh",
+				"lint.sh"
+			],
+			[
+				"deploy",
+				"deploy.sh"
+			],
+			[
+				"ankidroidapp",
+				"src/com/ichi2/anki/AnkiDroidApp.java"
+			],
+			[
+				"deckjava",
+				"src/com/ichi2/anki/DeckPicker.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/ajb/Documents/Projects/xftweb.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
