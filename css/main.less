@@ -1,0 +1,61 @@
+@gradient1: #55aaFF;
+@gradient2: #eeeeFF;
+
+body { margin: 0 }
+
+.gradientBg {
+  /* fallback */
+  background-color: @gradient1;
+  background-repeat: repeat-x;
+  
+  /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(@gradient1), to(@gradient2));
+  
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(top, @gradient2, @gradient1);
+  
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(top, @gradient2, @gradient1);
+  
+  /* IE 10 */
+  background: -ms-linear-gradient(top, @gradient2, @gradient1);
+  
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(top, @gradient2, @gradient1);
+}
+
+.header {
+	padding: .75em;
+	overflow: hidden;
+}
+
+.body {
+	position: absolute;
+	top: 2.75em;
+	bottom: 1.75em;
+}
+
+.footer {
+	padding: .25em;
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.left {
+	padding: .5em;
+	overflow-y: auto;
+	left: 0;
+	width: 300px;
+	border: 1px solid #eeeeee;
+}
+
+.right {
+	left: 300px;
+	right: 0;
+	padding: .5em;
+	overflow-y: auto;
+	border: 1px solid #cccccc;
+}

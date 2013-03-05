@@ -12,8 +12,8 @@
     "build_systems":
     [
         {
-            "name": "List",
-            "cmd": ["ls"]
+            "name": "Build Tasks Output",
+            "cmd": ["python", "-u", "build.py"]
         }
     ]
 }

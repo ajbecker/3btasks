@@ -1,0 +1,10 @@
+{
+  "name": "3BTasksBuildTools",
+  "description": "Tools used for building 3b Tasks",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "less": "*",
+    "jsmin": "*"
+  }
+}

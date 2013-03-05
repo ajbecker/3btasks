@@ -1,43 +1,49 @@
 body {
-    padding: 0;
-    margin: 0;
-    height: 100%;
+  margin: 0;
 }
-
-.row, .col {
-	overflow: hidden;
-	position: absolute;
+.gradientBg {
+  /* fallback */
+  background-color: #55aaff;
+  background-repeat: repeat-x;
+  /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#55aaff), to(#eeeeff));
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(top, #eeeeff, #55aaff);
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(top, #eeeeff, #55aaff);
+  /* IE 10 */
+  background: -ms-linear-gradient(top, #eeeeff, #55aaff);
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(top, #eeeeff, #55aaff);
 }
-
-.row {
-	left: 0;
-	right: 0;
+.header {
+  padding: .75em;
+  overflow: hidden;
 }
-
-.col {
-	top: 0;
-	bottom: 0;
+.body {
+  position: absolute;
+  top: 2.75em;
+  bottom: 1.75em;
 }
-
-.scroll-x {
-	overflow-x: auto;
+.footer {
+  padding: .25em;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
-
-.scroll-y {
-	overflow-y: auto;
+.left {
+  padding: .5em;
+  overflow-y: auto;
+  left: 0;
+  width: 300px;
+  border: 1px solid #eeeeee;
 }
-
-.header.row {
-	height: 75px;
-	top: 0;
-}
-
-.body.row {
-	top: 75px;
-	bottom: 50px;
-}
-
-.footer.row {
-	height: 50px;
-	bottom 0;
+.right {
+  left: 300px;
+  right: 0;
+  padding: .5em;
+  overflow-y: auto;
+  border: 1px solid #cccccc;
 }
