@@ -2,7 +2,8 @@
 	"folders":
     [
         {
-            "path": "."
+            "path": ".",
+            "folder_exclude_patterns": ["output", "node_modules"]
         }
     ],
     "settings":
@@ -13,7 +14,8 @@
     [
         {
             "name": "Build Tasks Output",
-            "cmd": ["python", "-u", "build.py"]
+            "cmd": ["c:\\Python27\\python.exe", "-u", "$project_path\\build.py"],
+            "working_dir": "$project_path"
         }
     ]
 }

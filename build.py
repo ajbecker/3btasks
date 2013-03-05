@@ -2,6 +2,7 @@ import shutil
 import os
 from subprocess import call
 
+
 # Get all the paths we care about
 cwd = os.getcwd()
 jsdir = os.path.join(cwd, "js")
@@ -13,6 +14,7 @@ outcssdir = os.path.join(output, "css")
 nodebin = os.path.join(cwd, "node_modules", ".bin")
 lessbin = os.path.join(nodebin, "lessc.cmd")
 jsminbin = os.path.join(nodebin, "jsmin.cmd")
+npmbin = "npm.cmd"
 
 # CLean the old stuff.
 if os.path.exists(output):
@@ -24,6 +26,11 @@ print "building output"
 os.mkdir(output)
 os.mkdir(outjsdir)
 os.mkdir(outcssdir)
+
+# If we don't have the npm modules installed yet then install them.
+if os.path.exists(lessbin) is False or os.path.exists(jsminbin) is False:
+    print "Updating node packages"
+    call([npmbin, "update"])
 
 # Copy the files over.
 files = os.listdir(cwd)
