@@ -1,5 +1,6 @@
 import shutil
 import os
+import datetime
 from subprocess import call
 
 
@@ -31,6 +32,12 @@ os.mkdir(outcssdir)
 if os.path.exists(lessbin) is False or os.path.exists(jsminbin) is False:
     print "Updating node packages"
     call([npmbin, "update"])
+
+# Copy the cache.manifest file over.
+shutil.copy(os.path.join(cwd, "cache.manifest"), output)
+print "Copying manifest file and appending timestamp"
+with open(os.path.join(output, "cache.manifest"), "a") as manifest:
+    manifest.write("# Manifest Timestamp: " + str(datetime.datetime.now()))
 
 # Copy the files over.
 files = os.listdir(cwd)
