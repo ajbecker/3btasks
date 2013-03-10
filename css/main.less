@@ -1,6 +1,7 @@
-@gradient1: #55aaFF;
-@gradient2: #eeeeFF;
-
+@gradient1: #F1F1F1;
+@gradient2: #F1F1F1;
+@marginColor: #F1F1F1;
+@borderColor: #E5E5E5;
 body {
     margin: 0;
 }
@@ -16,12 +17,14 @@ body {
 .header {
     padding: .75em;
     overflow: hidden;
+    background-color: @marginColor;
+    border-bottom: 1px solid @borderColor;
 }
 
 .body {
     position: absolute;
-    top: 2.75em;
-    bottom: 1.75em;
+    top: 3em;
+    bottom: 2em;
 }
 
 .footer {
@@ -31,6 +34,8 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
+    background-color: @marginColor;
+    border-top: 1px solid @borderColor;
 }
 
 .left {
@@ -39,16 +44,14 @@ body {
     -ms-overflow-y: auto;
     overflow-y: auto;
     left: 0;
-    width: 300px;
-    border: 1px solid #eeeeee;
+    width: 100px;
 }
 
 .right {
-    left: 300px;
+    left: 100px;
     right: 0;
     padding: .5em;
 
     -ms-overflow-y: auto;
     overflow-y: auto;
-    border: 1px solid #cccccc;
 }
