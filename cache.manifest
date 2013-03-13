@@ -1,4 +1,24 @@
 CACHE MANIFEST 
-/index.html
-/css/main.css
-/js/main.js
+
+# Cache the local files
+index.html
+css/main.css
+js/main.js
+js/templates.js
+js/underscore.min.js
+js/backbone.min.js
+js/handlebars.runtime.js
+res/favicon.png
+
+# cache the remote files
+//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js
+
+# cache the web font
+http://fonts.googleapis.com/css?family=Droid+Sans
+http://themes.googleusercontent.com/static/fonts/droidsans/v3/s-BiyweUPV0v-yRb-cjciBsxEYwM7FgeyaSgU71cLG0.woff
+
+NETWORK:
+*
+
+
